@@ -1,0 +1,31 @@
+.title {
+    margin-left: 60px;
+    color: white;
+
+}
+
+.jumbotron {
+
+    background-color: lightcoral;
+
+}
+
+.box {
+    width: 1000px;
+    margin:-120px;
+    margin-left: 30px;
+    margin-right:30px;
+}
+
+    .container{
+        margin: 95px;
+
+    }
+
+    .text{
+        color: white;
+        font-size: large;
+        font-family: 'Gurajada', serif;
+
+
+    }

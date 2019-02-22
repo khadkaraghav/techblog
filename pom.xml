@@ -11,13 +11,13 @@
     <groupId>com.example</groupId>
     <artifactId>demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-<<<<<<< HEAD
+
     <name>demo</name>
     <description>blogpage2</description>
-=======
+
     <name>techblog</name>
     <description>Demo project for Spring Boot</description>
->>>>>>> 745af051baf4255d8db4839293b0541b17665ab1
+
 
     <properties>
         <java.version>1.8</java.version>

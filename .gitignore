@@ -24,8 +24,6 @@ HELP.md
 /nbdist/
 /.nb-gradle/
 /build/
-<<<<<<< HEAD
-=======
+
 
 application.properties
->>>>>>> 745af051baf4255d8db4839293b0541b17665ab1
